@@ -1,4 +1,4 @@
-# Linear-Regression-From-Scratch
+# Linear Regression From Scratch
 ![F1-Chart](https://github.com/creatornadiran/LinearRegressionFromScratch/blob/main/imgs/f1_chrt.png?raw=true)
 ![F2-Chart](https://github.com/creatornadiran/LinearRegressionFromScratch/blob/main/imgs/f2_chrt.png?raw=true)
 
